@@ -6,4 +6,5 @@
 3)Провел установку виртуальной машину
 ![](http://s7.hostingkartinok.com/uploads/images/2015/06/3883a3c3afce5673970acd3d49a99582.jpg)
 4) Залогинился
+![](http://s7.hostingkartinok.com/uploads/images/2015/06/c3d189471216d24434fdfb730ee5e05b.jpg)
  
