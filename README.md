@@ -6,4 +6,4 @@ Centos является дистрибутивом GNU/Linux, основанно
     
 # Установка.
 Теперь, когда скачан образ CentOS 7 minimal, и установлен VMware Workstation, можно преступить непосредственно к созданию виртуальной машины и установки на нее CentOS.Для начала откроем VMware Workstation и выберем пункт "Создать новую виртуальную машину" 
-![](http://s7.hostingkartinok.com/uploads/images/2015/07/c1f6b6bebb41e3322789f66b2eb65e0c.png)
+![](http://s7.hostingkartinok.com/uploads/images/2015/07/a721eb021bf7d5656e205e260539bdc8.jpg)
